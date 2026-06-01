@@ -9,7 +9,7 @@ from sklearn.metrics import r2_score
 
 print("="*50)
 print("ML MODEL: Diabetes Progression Predictor")
-print("Author: SamiUllah Saif - ML Engineer Trainee")
+print("Author: SamiUllah Saif - ML Engineer")
 print("="*50)
 
 # Load real medical data

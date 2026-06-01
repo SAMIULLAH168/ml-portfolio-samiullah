@@ -1,6 +1,6 @@
 # Machine Learning Portfolio - SamiUllah Saif
 
-**ML Engineer Trainee | Python Developer | AI Enthusiast**
+**ML Engineer | Python Developer | AI Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SAMIULLAH168-blue)](https://github.com/SAMIULLAH168)
 [![Email](https://img.shields.io/badge/Email-samideveloper313@gmail.com-red)](mailto:samideveloper313@gmail.com)
@@ -30,4 +30,4 @@
 - **GitHub:** github.com/SAMIULLAH168
 
 ---
-*Open to ML Engineer Trainee opportunities*
+*Open to ML Engineer opportunities*
